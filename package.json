@@ -1,0 +1,17 @@
+{
+  "name": "calendar",
+  "version": "1.0.0",
+  "description": "A module for ClubPanel that embeds a Google Calendar on a page.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClubPanel/Calendar.git"
+  },
+  "author": "Jonah Uellenberg",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ClubPanel/Calendar/issues"
+  },
+  "homepage": "https://github.com/ClubPanel/Calendar#readme",
+  "private": false,
+  "devDependencies": {}
+}
