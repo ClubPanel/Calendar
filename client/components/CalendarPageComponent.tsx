@@ -12,8 +12,8 @@ const CalendarPageComponent = ({config}: RenderProps) => {
     <iframe
       src={configs.calendarURL}
       className="calendar-iframe"
-      width="800"
-      height="600"
+      width="100%"
+      height="100%"
       frameBorder="0"
       scrolling="no"
     />
